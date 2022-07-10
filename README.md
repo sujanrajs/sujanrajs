@@ -1,5 +1,5 @@
 # Hi there 👋 I am Sujan.. warm welcome to my profile..
-
+## FullStack Developer Trainee at Integrify, Helsinki Finland
 <!--
 **sujanrajs/sujanrajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
